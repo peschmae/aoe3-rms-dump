@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo  
+imagepath = "ui\random_map\pampas" 
+displayName = "Bern City Bitches" 
+detailsText = "Map based on the geography of Bern, CH" 
+loadDetailsText = "Bern at it's best"
+loadBackground="ui\random_map\pampas\pampas_map">
+   <loadss>ui\random_map\pampas\pampas_ss_01</loadss>
+   <loadss>ui\random_map\pampas\pampas_ss_02</loadss>
+   <loadss>ui\random_map\pampas\pampas_ss_03</loadss>
+</mapinfo>
